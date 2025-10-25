@@ -1,0 +1,3 @@
+# TEST REPOSITORY TO CHECK COMMAND WORK
+
+* First commit
